@@ -61,7 +61,7 @@
     "prettier": "^3.3.2",
     "tap": "^21.1.0",
     "tshy": "^3.0.2",
-    "typedoc": "^0.28.5"
+    "typedoc": "^0.28.13"
   },
   "funding": {
     "url": "https://github.com/sponsors/isaacs"
