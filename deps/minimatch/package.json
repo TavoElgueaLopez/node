@@ -55,7 +55,7 @@
   },
   "devDependencies": {
     "@types/brace-expansion": "^1.1.2",
-    "@types/node": "^24.0.0",
+    "@types/node": "^24.5.2",
     "esbuild": "^0.25.5",
     "mkdirp": "^3.0.1",
     "prettier": "^3.3.2",
